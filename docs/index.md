@@ -1,8 +1,9 @@
 ---
-title: Home Page
+layout: page
+title: Docs Home Page
 id: home
 ---
 
-<section class="home-section">
-  Hello, World!
+<section class="light home-section">
+  Docs Site
 </section>
