@@ -1,0 +1,12 @@
+---
+name: Demo Docs
+description: A test repo for playing with github docs
+url: http://brianegizi.com/doc-experiments
+baseurl: "/doc-experiments"
+timezone: America/New_York
+defaults:
+exclude:
+- README.md
+sass:
+  style: :compressed
+version: 0.1.0
