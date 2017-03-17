@@ -5,5 +5,5 @@ id: home
 ---
 
 <section class="light home-section">
-  Docs Site
+  Docs Site - edit
 </section>
